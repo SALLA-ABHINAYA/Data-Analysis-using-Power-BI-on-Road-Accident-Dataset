@@ -1,1 +1,2 @@
-# Data-Analysis-using-Power-BI-on-Road-Accident-Dataset
+# Data Analysis using Power BI on Road Accident Dataset
+Conducted in-depth data analysis using Power BI on road accident datasets, resulting in the creation of a comprehensive dashboard. Leveraged visualization techniques to uncover trends and insights, facilitating informed decision-making for stakeholders. Notable findings include heightened accident rates during dry weather conditions and an increased prevalence of car accidents.
